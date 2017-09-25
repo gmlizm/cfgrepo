@@ -1,2 +1,2 @@
-# config-repo
-cfgcenter
+# cfgrepo
+cfgcenter's properties file
